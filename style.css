@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding-left: 5%;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display:flex;
+}
+.space-size{
+    width: 50%;
+}
+.again-space-size{
+    width: 50%;
+}
+.again-space-size img{
+    width: 100%;
+}
+.hire-me-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple, blue);
+    padding: 10px 10px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 10px;
+}
